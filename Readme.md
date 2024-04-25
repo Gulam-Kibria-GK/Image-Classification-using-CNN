@@ -48,7 +48,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install tensorflow keras numpy matplotlib scikit-learn opencv-python jupyter
-
+```
 
 ##Author
 Gulam Kibria Chowdhury
