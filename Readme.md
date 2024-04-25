@@ -8,8 +8,7 @@ This project implements an Image Classification system using Convolutional Neura
 2. [Files](#files)
 3. [Usage](#usage)
 4. [Dependencies](#dependencies)
-5. [License](#license)
-6. [Author](#author)
+5. [Author](#author)
 
 ## Introduction
 
@@ -47,14 +46,7 @@ This project requires the following dependencies:
 You can install these dependencies using pip:
 
 ```bash
-pip install tensorflow
-pip install keras
-pip install numpy
-pip install matplotlib
-pip install scikit-learn
-pip install opencv-python
-pip install jupyter
-
+pip install tensorflow keras numpy matplotlib scikit-learn opencv-python jupyter
 ```
 
 ## Author
