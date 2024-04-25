@@ -47,11 +47,19 @@ This project requires the following dependencies:
 You can install these dependencies using pip:
 
 ```bash
-pip install tensorflow keras numpy matplotlib scikit-learn opencv-python jupyter
+pip install tensorflow
+pip install keras
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+pip install opencv-python
+pip install jupyter
+
 ```
 
-##Author
-Gulam Kibria Chowdhury
-Software Developer || Competitive Programmer
-Sylhet, Bangladesh
-Gmail: gkchowdhury101@gmail.com
+## Author
+
+Gulam Kibria Chowdhury <br>
+Software Developer || Competitive Programmer<br>
+Sylhet, Bangladesh<br>
+Gmail: gkchowdhury101@gmail.com<br>
